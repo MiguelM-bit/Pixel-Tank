@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.1",
+  "option_operagx_next_version": "0.0.0.2",
+  "option_operagx_game_name": "Pixel Tank",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "832d90b8-f32e-47db-885b-9a25d3d59f11",
+  "option_operagx_team_name": "oww1 studio",
+  "option_operagx_team_id": "3e676099-3e48-455c-a79c-ee2b751c3dd0",
+  "option_operagx_editUrl": "https://create.gx.games/game/832d90b8-f32e-47db-885b-9a25d3d59f11/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
